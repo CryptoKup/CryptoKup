@@ -33,7 +33,7 @@ H(contract ID||outcome||Wi)
 Where Wi
 is the window index, i.e. the number of
 windows that have elapsed since the contract
-CRYPTOKUP-VALIDA-COIN-H(contract ID||H(Bi−1))BLOCKCHAIN/explorer.cryptokup.com/H(t||“output”||i) reinvested (1,80%) 
+<H3>CRYPTOKUP-VALIDA-COIN-H(contract ID||H(Bi−1))BLOCKCHAIN/explorer.cryptokup.com/H(t||“output”||i)</H3> reinvested (1,80%) 
 Algorithm
 Hosts prove their storage by providing a segment of
 the original file and a list of hashes from the file’s
