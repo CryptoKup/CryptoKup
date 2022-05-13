@@ -9,7 +9,7 @@ File Contract See: File Contracts (blk)
 Storage Proof See: Proof of Storage (blk)
 Signatures Signatures from each input
 CRYPTOKUP-BTC-EGLD-ADA-SYSTEM P2P
-<!---
+
  Inputs and Outputs
 An output comprises a volume of coins. Each output
 has an associated identifier, which is derived from the
@@ -47,4 +47,3 @@ for challenge window W
 
 
 
---->
