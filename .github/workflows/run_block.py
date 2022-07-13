@@ -1,4 +1,5 @@
-null  -det/p https://explorer.cryptokup.com/ from dataclasses block -> frst "Serv:BLOCK=8173COINa252ee839bec438f5c67219f911622a721CCe" link = https://explorer.cryptokup.com/address/Serv:BLOCK=8173COINa252ee839bec438f5c67219f911622a721CCe rezults/form.rut
+null  -det/p https://explorer.cryptokup.com/ from dataclasses block -> frst "Serv:BLOCK=8173COINa252ee839bec438f5c67219f911622a721CCe" link 
+     op = https://explorer.cryptokup.com/address/Serv:BLOCK=8173COINa252ee839bec438f5c67219f911622a721CCe rezults/form.rut
 
 #!/usr/bin/env python
 
